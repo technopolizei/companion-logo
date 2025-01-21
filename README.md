@@ -43,5 +43,3 @@ Control relays on Siemens Logo via TCP command from Streamdeck Companion. Check 
 - **Автоматизация:** Apache Airflow
 - **Мониторинг:** Prometheus, Grafana
 - **Протоколы:** Modbus, MQTT, TCP/UDP
-
-## Структура проекта
