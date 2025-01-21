@@ -1,3 +1,18 @@
+# Structure / Структура
+logo-siemens-iot-monitoring/
+├── README.md
+├── requirements.txt
+├── src/
+│   ├── data_collection.py
+│   ├── etl_pipeline.py
+│   ├── db.py
+│   ├── prometheus_config.yml
+|   ├── companion-logo.py
+│   └── grafana_dashboards/
+└── scripts/
+    └── start_etl.sh
+
+
 # [ENG] IoT Monitoring and Analytics System
 
 This project demonstrates a basic implementation of an IoT monitoring system using Siemens Logo, Raspberry Pi, and other sensors. The system collects data, stores it in a PostgreSQL database, and provides real-time monitoring through Prometheus and Grafana.
